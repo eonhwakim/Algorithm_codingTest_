@@ -1,2 +1,2 @@
-# Programmers_codingTest_
+# Algorithm_codingTest_
 Programmers codingTest explanation
