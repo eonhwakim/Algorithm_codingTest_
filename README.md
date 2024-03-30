@@ -1,2 +1,2 @@
 # Algorithm_codingTest_
-Programmers codingTest explanation
+Programmers/BOJ codingTest explanation
